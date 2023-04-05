@@ -98,7 +98,6 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="20dp"
             android:hint="Address" />
-
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
